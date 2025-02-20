@@ -1,2 +1,3 @@
 # Gitdemo
-My first git demo
+My first git demo.
+Author- Vidya Alase
